@@ -1,0 +1,10 @@
+window {
+    background-color: palevioletred;
+}
+
+button {
+    color: red;
+    border-radius: 5px;
+    padding: 10px;
+}
+
